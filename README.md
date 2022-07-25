@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wologman
 - 👀 I’m interested in Geospatial Analysis, Conservation, Renewable Energy, Computational Fluid Dynamics, ML, Kaggle.
-- 🌱 I’m currently studying Geospatial Statistics and Machine Learning.
+- 🌱 I’m currently studying GIS programming and Machine Learning.
 - 📫 Reach me by the contact form on my website [ollypowell.com](https://ollypowell.com)
 
 
