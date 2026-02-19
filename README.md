@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wologman
-- 👀 I’m interestes include Geospatial Analysis, Conservation, Renewable Energy, Remote Sensing, ML, Kaggle.
-- 🌱 My main study interests at the moment are GIS programming, Machine Learning and spatial statistics.
+- 👀 My interestes include Geospatial Analysis, Conservation, Renewable Energy, Remote Sensing, ML, Kaggle.
+- 🌱 My main study interests at the moment are Machine Learning and spatial statistics.
 - 📫 Reach me by the contact form on my website [wekaresearch.com](https://wekaresearch.com)
 
 
